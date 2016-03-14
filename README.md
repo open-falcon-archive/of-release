@@ -1,6 +1,6 @@
 # Wiki
 
-http://open-falcon.com
+http://open-falcon.org
 
 
 # License
